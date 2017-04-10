@@ -1,0 +1,28 @@
+E:\BOT\LUISStockbot\LUISStockbot\obj\Debug\LUISStockbot.csprojResolveAssemblyReference.cache
+E:\BOT\LUISStockbot\LUISStockbot\bin\Bot Application.dll.config
+E:\BOT\LUISStockbot\LUISStockbot\bin\Bot Application.dll
+E:\BOT\LUISStockbot\LUISStockbot\bin\Bot Application.pdb
+E:\BOT\LUISStockbot\LUISStockbot\bin\Autofac.dll
+E:\BOT\LUISStockbot\LUISStockbot\bin\Chronic.dll
+E:\BOT\LUISStockbot\LUISStockbot\bin\Microsoft.Bot.Connector.dll
+E:\BOT\LUISStockbot\LUISStockbot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\BOT\LUISStockbot\LUISStockbot\bin\Microsoft.Rest.ClientRuntime.dll
+E:\BOT\LUISStockbot\LUISStockbot\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\BOT\LUISStockbot\LUISStockbot\bin\Newtonsoft.Json.dll
+E:\BOT\LUISStockbot\LUISStockbot\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\BOT\LUISStockbot\LUISStockbot\bin\System.Net.Http.Formatting.dll
+E:\BOT\LUISStockbot\LUISStockbot\bin\System.Web.Http.dll
+E:\BOT\LUISStockbot\LUISStockbot\bin\System.Web.Http.WebHost.dll
+E:\BOT\LUISStockbot\LUISStockbot\bin\Autofac.xml
+E:\BOT\LUISStockbot\LUISStockbot\bin\Microsoft.Bot.Connector.xml
+E:\BOT\LUISStockbot\LUISStockbot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+E:\BOT\LUISStockbot\LUISStockbot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\BOT\LUISStockbot\LUISStockbot\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\BOT\LUISStockbot\LUISStockbot\bin\Newtonsoft.Json.xml
+E:\BOT\LUISStockbot\LUISStockbot\bin\System.IdentityModel.Tokens.Jwt.pdb
+E:\BOT\LUISStockbot\LUISStockbot\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\BOT\LUISStockbot\LUISStockbot\bin\System.Net.Http.Formatting.xml
+E:\BOT\LUISStockbot\LUISStockbot\bin\System.Web.Http.xml
+E:\BOT\LUISStockbot\LUISStockbot\bin\System.Web.Http.WebHost.xml
+E:\BOT\LUISStockbot\LUISStockbot\obj\Debug\Bot Application.dll
+E:\BOT\LUISStockbot\LUISStockbot\obj\Debug\Bot Application.pdb
